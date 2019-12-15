@@ -1,0 +1,139 @@
+[INFO] RetroArch 1.8.1 (Git bfdc8e6a62)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+[INFO] Capabilities:  MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE4.2 AES AVX
+[INFO] Built: Nov  2 2019
+[INFO] Version: 1.8.1
+[INFO] Git: bfdc8e6a62
+[INFO] =================================================
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] Redirecting save file to "C:\Users\natep\Documents\RetroArch\saves\.srm".
+[INFO] Redirecting savestate to "C:\Users\natep\Documents\RetroArch\states\.state".
+[INFO] Version of libretro API: 1
+[INFO] Compiled against API: 1
+[INFO] [Audio]: Set audio input rate to: 30000.00 Hz.
+[INFO] [Video]: Video @ 960x720
+[INFO] [GL]: Found GL context: wgl
+[INFO] [GL]: Detecting screen resolution 1920x1080.
+[INFO] [WGL] extensions: WGL_ARB_buffer_region WGL_ARB_create_context WGL_ARB_create_context_no_error WGL_ARB_create_context_profile WGL_ARB_create_context_robustness WGL_ARB_context_flush_control WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_mult
+[INFO] [WGL]: Adaptive VSync supported.
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] [GL]: Vendor: NVIDIA Corporation, Renderer: GeForce GTX 1060 with Max-Q Design/PCIe/SSE2.
+[INFO] [GL]: Version: 4.6.0 NVIDIA 398.36.
+[INFO] [GL]: Using resolution 960x720
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shader driver]: Using GLSL shader backend.
+[INFO] [GLSL]: Checking GLSL shader support ...
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] Setting up menu pipeline shaders for XMB ... 
+[INFO] [GLSL]: Compiling ribbon shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling simple ribbon shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling snow shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling modern snow shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling bokeh shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Compiling snowflake shader..
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 4 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[INFO] [GL]: Using GL_RGB565 for texture uploads.
+[INFO] [XInput]: Found XInput v1.4.
+[INFO] [XInput]: Found controller, user #0
+[INFO] [XInput]: Pads connected: 1
+[INFO] [DINPUT]: Enumerating joypads ...
+[INFO] [DINPUT]: Device #0 PID: {0024} VID:{9886}
+[INFO] [DINPUT]: Device #1 PID: {0024} VID:{9886}
+[INFO] [DINPUT]: Device #2 PID: {0024} VID:{9886}
+[INFO] [DINPUT]: Device #3 PID: {0024} VID:{9886}
+[INFO] [DINPUT]: Done enumerating joypads ...
+[INFO] [XInput]: Attempting autoconf for "XInput Controller (User 1)", user #0
+[INFO] [DINPUT]: Found XInput pad at index 0 (DINPUT index 0)
+[INFO] [XInput]: Found VID/PID (9886/0024) from DINPUT index 0 for "XInput Controller (User 1)", user #0
+[INFO] [XInput]: Attempting autoconf for "XInput Controller (User 2)", user #1
+[INFO] [DINPUT]: Found XInput pad at index 1 (DINPUT index 1)
+[INFO] [XInput]: Found VID/PID (9886/0024) from DINPUT index 1 for "XInput Controller (User 2)", user #1
+[INFO] [XInput]: Attempting autoconf for "XInput Controller (User 3)", user #2
+[INFO] [DINPUT]: Found XInput pad at index 2 (DINPUT index 2)
+[INFO] [XInput]: Found VID/PID (9886/0024) from DINPUT index 2 for "XInput Controller (User 3)", user #2
+[INFO] [XInput]: Attempting autoconf for "XInput Controller (User 4)", user #3
+[INFO] [DINPUT]: Found XInput pad at index 3 (DINPUT index 3)
+[INFO] [XInput]: Found VID/PID (9886/0024) from DINPUT index 3 for "XInput Controller (User 4)", user #3
+[INFO] [XInput]: Attempting autoconf for user #4
+[INFO] [XInput]: Attempting autoconf for user #5
+[INFO] [XInput]: Attempting autoconf for user #6
+[INFO] [XInput]: Attempting autoconf for user #7
+[INFO] [XInput]: Attempting autoconf for user #8
+[INFO] [XInput]: Attempting autoconf for user #9
+[INFO] [XInput]: Attempting autoconf for user #10
+[INFO] [XInput]: Attempting autoconf for user #11
+[INFO] [XInput]: Attempting autoconf for user #12
+[INFO] [XInput]: Attempting autoconf for user #13
+[INFO] [XInput]: Attempting autoconf for user #14
+[INFO] [XInput]: Attempting autoconf for user #15
+[INFO] [Joypad]: Found joypad driver: "xinput".
+[INFO] [Autoconf]: 140 profiles found.
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Video]: Found display server: win32
+[INFO] [XAudio2]: Requesting 64 ms latency, using 64 ms latency.
+[INFO] [Autoconf]: selected configuration: C:\Users\natep\Documents\RetroArch\autoconfig\xinput\XInput_Controller_User_1.cfg
+[INFO] [Autoconf]: 140 profiles found.
+[INFO] [Menu]: Found menu display driver: "gl".
+[INFO] [Autoconf]: selected configuration: C:\Users\natep\Documents\RetroArch\autoconfig\xinput\XInput_Controller_User_2.cfg
+[INFO] [Autoconf]: 140 profiles found.
+[INFO] [Autoconf]: selected configuration: C:\Users\natep\Documents\RetroArch\autoconfig\xinput\XInput_Controller_User_3.cfg
+[INFO] [Autoconf]: 140 profiles found.
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Menu]: Found menu display driver: "gl".
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Autoconf]: selected configuration: C:\Users\natep\Documents\RetroArch\autoconfig\xinput\XInput_Controller_User_4.cfg
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [LED]: LED driver = 'null' 0000000000B8AF00
+[INFO] [MIDI]: Initializing ...
+[INFO] [MIDI]: Input disabled.
+[INFO] [MIDI]: Output disabled.
+[INFO] [MIDI]: Initialized "winmm" driver.
+[INFO] SRAM will not be saved.
+[INFO] Loading history file: [C:\Users\natep\Documents\RetroArch\content_history.lpl].
+[INFO] Loading history file: [C:\Users\natep\Documents\RetroArch\content_music_history.lpl].
+[INFO] Loading history file: [C:\Users\natep\Documents\RetroArch\content_video_history.lpl].
+[INFO] Loading history file: [C:\Users\natep\Documents\RetroArch\content_image_history.lpl].
+[INFO] Loading favorites file: [C:\Users\natep\Documents\RetroArch\content_favorites.lpl].
+[INFO] [GL]: VSync => on
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] [GL]: VSync => on
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] [Font]: Using font rendering backend: freetype.
+[INFO] [Font]: Using font rendering backend: freetype.
+[ERROR] Download of 'emux_nes_libretro.dll.zip' failed: Download failed.
+[ERROR] Download of 'fceumm_libretro.dll.zip' failed: Download failed.
+[ERROR] Download of 'mesen_libretro.dll.zip' failed: Download failed.
+[ERROR] Download of 'nestopia_libretro.dll.zip' failed: Download failed.
+[ERROR] Download of 'quicknes_libretro.dll.zip' failed: Download failed.
+[ERROR] Download of 'mupen64plus_next_libretro.dll.zip' failed: Download failed.
+[ERROR] Download of 'mednafen_snes_libretro.dll.zip' failed: Download failed.
